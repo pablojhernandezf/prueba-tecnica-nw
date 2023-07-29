@@ -1,0 +1,5 @@
+google-cloud-bigquery
+google-cloud-pubsub
+google-cloud-storage
+google-auth
+functions-framework==3.*
